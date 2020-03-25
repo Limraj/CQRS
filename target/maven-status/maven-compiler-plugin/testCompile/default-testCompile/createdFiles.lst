@@ -1,0 +1,7 @@
+com\devwider\scada\domain\user\command\AddUserCommandTest.class
+com\devwider\scada\domain\script\command\AddScriptCommandTest.class
+com\devwider\scada\domain\user\query\GetUserByUsernameQueryTest.class
+com\devwider\scada\domain\script\query\GetScriptByXidQueryTest.class
+com\devwider\scada\domain\TestUtil.class
+com\devwider\scada\domain\user\command\RemoveUserCommandTest.class
+com\devwider\scada\domain\user\query\GetUserByIdQueryTest.class

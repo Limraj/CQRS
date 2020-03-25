@@ -1,0 +1,7 @@
+C:\Users\Kamil-Tomasz\Documents\NetBeansProjects\CQRS\src\test\java\com\devwider\scada\domain\user\query\GetUserByUsernameQueryTest.java
+C:\Users\Kamil-Tomasz\Documents\NetBeansProjects\CQRS\src\test\java\com\devwider\scada\domain\user\command\RemoveUserCommandTest.java
+C:\Users\Kamil-Tomasz\Documents\NetBeansProjects\CQRS\src\test\java\com\devwider\scada\domain\TestUtil.java
+C:\Users\Kamil-Tomasz\Documents\NetBeansProjects\CQRS\src\test\java\com\devwider\scada\domain\user\command\AddUserCommandTest.java
+C:\Users\Kamil-Tomasz\Documents\NetBeansProjects\CQRS\src\test\java\com\devwider\scada\domain\user\query\GetUserByIdQueryTest.java
+C:\Users\Kamil-Tomasz\Documents\NetBeansProjects\CQRS\src\test\java\com\devwider\scada\domain\script\command\AddScriptCommandTest.java
+C:\Users\Kamil-Tomasz\Documents\NetBeansProjects\CQRS\src\test\java\com\devwider\scada\domain\script\query\GetScriptByXidQueryTest.java
